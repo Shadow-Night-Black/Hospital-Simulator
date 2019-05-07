@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="minRecoveryTime">4</entry>
+<entry key="name">Tim Berners Knee</entry>
+<entry key="maxRecoveryTime">6</entry>
+<entry key="requiresTheatre">true</entry>
+<entry key="id">7</entry>
+</properties>

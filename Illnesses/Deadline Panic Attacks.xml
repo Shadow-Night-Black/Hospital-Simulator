@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="minRecoveryTime">1</entry>
+<entry key="name">Deadline Panic Attacks</entry>
+<entry key="maxRecoveryTime">1</entry>
+<entry key="requiresTheatre">false</entry>
+<entry key="id">3</entry>
+</properties>

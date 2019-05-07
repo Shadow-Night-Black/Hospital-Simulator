@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="minRecoveryTime">5</entry>
+<entry key="name">Djkstra's Syndrome</entry>
+<entry key="maxRecoveryTime">5</entry>
+<entry key="requiresTheatre">false</entry>
+<entry key="id">1</entry>
+</properties>

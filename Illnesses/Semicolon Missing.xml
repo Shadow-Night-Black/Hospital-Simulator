@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="minRecoveryTime">5</entry>
+<entry key="name">Semicolon Missing</entry>
+<entry key="maxRecoveryTime">8</entry>
+<entry key="requiresTheatre">true</entry>
+<entry key="id">5</entry>
+</properties>
